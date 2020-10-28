@@ -1318,6 +1318,31 @@ footer {
     text-align: center;
 }
 
+.footer .footer_sides {
+    padding-bottom: 20px;
+    justify-items: center;
+}
+
+.footer .left {
+    float: left;
+    width: 49%;
+    font-weight: bold;
+}
+
+.footer .right {
+    float: right;
+    width: 49%;
+}
+
+.footer .right i {
+    justify-items: center;
+    margin-right: 10px;
+}
+
+.footer .right i:hover {
+    color: red;
+}
+
 
 /*********************************/
 
